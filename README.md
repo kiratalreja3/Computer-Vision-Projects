@@ -3,5 +3,6 @@ My Computer Vision projects including image camera calibration, homography, CNNs
 
 # C-Lab1
 This project explores the basics of image processing. Some of the tasks performed are 
+- RGB Channel Split : Spilitting the image into its Red, Green & Blue components and observing the light intensity difference for each of them. 
 - Histogram Equalisation : Histogram equalization is a method to process images in order to adjust the contrast of an image by modifying the intensity distribution of the histogram. The objective of this technique is to give a linear trend to the cumulative probability function associated to the image.
 - 
